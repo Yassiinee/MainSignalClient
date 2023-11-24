@@ -1,9 +1,9 @@
 # MainSignalClient
 
-## Description of your project.
+## Description of the sample project.
 
 A simple app to consume the information our server is providing in real time.
-I'm defining a method to consume the data that the server is making available in real time For that, I have created a connection to the Hub, passing our server’s URL, which returns a list of dates and displays it on the terminal.
+Defining a method to consume the data that the server is making available in real time For that, We create a connection to the Hub, passing our server’s URL, which returns a list of dates and displays it on the terminal.
 
 ## Getting Started
 
